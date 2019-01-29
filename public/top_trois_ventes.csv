@@ -1,0 +1,13 @@
+position;categories;product;quantity;amount
+1;Ordinateurs;HP;33;2244
+2;Ordinateurs;DELL;31;2139
+3;Ordinateurs;APPLE;27;2214
+1;Livres;"Apprendre le HTML";37;407
+2;Livres;"Harry Potter";15;975
+3;Livres;"Asterix et Cleopatre";7;273
+1;Decoration;Lampe;33;0
+2;Decoration;Figurine;29;696
+3;Decoration;Plaid;29;348
+1;Meubles;Table;39;2691
+2;Meubles;Fauteuil;32;1504
+3;Meubles;Etagere;28;2632
